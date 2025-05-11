@@ -1,6 +1,6 @@
 Algortima Final Projesi
 -----------------------------
 
-- Geliştirici: Mehmet Efe Bilgeç
+- Geliştirici: Mehmet Efe Bilge
 - Teknolojiler: Java, Swing
 - Lisans: MIT
